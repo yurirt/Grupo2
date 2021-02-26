@@ -16,3 +16,5 @@ El proyecto trabajará usando
 
 - Alvaro
 - Luiggi
+- Por que Alvaro?
+
